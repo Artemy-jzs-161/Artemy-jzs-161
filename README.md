@@ -18,7 +18,7 @@
 <p align="left">
 <summary>Технологии</summary>
 <summary>Code</summary>
-<img width="6%" title="Java" src="images/java-original-wordmark.svg">
+<img width="6%" title="Java" src="images/java.svg">
 <img width="6%" title="Selenide" src="images/Selenide.png">
 <img width="6%" title="Gradle" src="images/gradle-original.svg">
 <img width="6%" title="JUnit5" src="images/junit-original-wordmark.svg">
