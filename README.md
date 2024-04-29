@@ -34,13 +34,13 @@
 <summary>Tests visualization</summary>
 <img width="6%" title="Allure Report" src="images/Allure_Report.png">
 <img width="5%" title="Allure TestOps" src="images/AllureTestOps.png">
-<img width="5%" title="Jira" src="images/jira.svg">
+<img width="5%" title="Jira" src="images/jira-original-wordmark.svg">
 <img width="6%" title="Jenkins" src="images/jenkins-original.svg">
 <summary>Tests notifications</summary>
 <img width="6%" title="Email" src="images/gmail.svg">
 <img width="5%" title="Telegram" src="images/telegram.svg">
 <summary>Workflow</summary>
-<img width="5%" title="Jira" src="images/jira.svg">
+<img width="5%" title="Jira" src="images/jira-original-wordmark.svg">
 <img width="6%" title="Allure Report" src="images/Allure_Report.png">
 </p>
 
