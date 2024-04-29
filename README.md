@@ -23,7 +23,7 @@
 <img width="6%" title="Gradle" src="images/gradle-original.svg">
 <img width="6%" title="JUnit5" src="images/junit-original-wordmark.svg">
 <img width="6%" title="Rest Assured" src="images/restassured.png">
-<img width="6%" title="Appium" src="images/appium-svgrepo-com.svg">
+<img width="6%" title="Appium" src="images/appium.svg">
 <summary>Infrastructure</summary>
 <img width="5%" title="Allure TestOps" src="images/AllureTestOps.png">
 <img width="6%" title="Selenoid" src="images/Selenoid.png">
