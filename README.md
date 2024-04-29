@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-### Технологии
+**Технологии**
 <summary>Code</summary>
 <img width="6%" title="Java" src="images/java.svg">
 <img width="6%" title="Selenide" src="images/Selenide.png">
