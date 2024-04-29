@@ -8,7 +8,7 @@
 🌱 I’m currently learning **AQA, Java, Linux**
 
 <details>
-<summary>Детально</summary>
+<summary>In detail</summary>
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Artemy-jzs-161&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
- <h3>Технологии</h3>
+ <h3>Technologies</h3>
 <summary>Code</summary>
 <img width="6%" title="Java" src="images/java.svg">
 <img width="6%" title="Selenide" src="images/Selenide.png">
@@ -44,7 +44,7 @@
 <img width="6%" title="Allure Report" src="images/Allure_Report.png">
 </p>
 
-### Проекты
+### Project
 
 -
 -
