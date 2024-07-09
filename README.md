@@ -46,9 +46,8 @@
 
 ### Project
 
-[-](https://github.com/Artemy-jzs-161/pyrus_tests)
--
--
+<a href="https://github.com/Artemy-jzs-161/pyrus_tests">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Artemy-jzs-161&repo=pyrus_tests&theme=dracula" />
 
 
 
